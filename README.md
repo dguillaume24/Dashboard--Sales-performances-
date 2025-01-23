@@ -1,5 +1,6 @@
 # Dashboard--Sales-performances-
-
+# Source 
+[Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
 # 1 Cleaning data
 ## Remove duplicates
 Check to see if there are duplicates 

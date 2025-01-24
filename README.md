@@ -2,7 +2,8 @@
 # Source 
 [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
 # 1 Cleaning data
-## Remove duplicates
+- Remove duplicates: No duplicate
+- No missing data
 Check to see if there are duplicates 
 ## Format standardisation
 Remove extra space use of macro

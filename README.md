@@ -129,7 +129,7 @@ Profit: 473.39
 Interpretation: High kurtosis indicates that the data has heavy tails or outliers.
 ### 4. Other
 
-markdown
+
 | Statistic | Sales       | Quantity     | Discount     | Profit       |
 |-----------|-------------|--------------|--------------|--------------|
 | Count     | 9,994       | 9,994        | 9,994        | 9,994        |

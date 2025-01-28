@@ -29,7 +29,7 @@
 - No missing data
 Check to see if there are duplicates 
 ## Format standardisation
-Remove extra space use of macro
+```vba
 Sub SupprimerEspaces()
     Dim ws As Worksheet
     Dim cell As Range

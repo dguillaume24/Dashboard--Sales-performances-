@@ -54,7 +54,7 @@ Additional spaces
 Changing column names
 Remove duplicates
 # 2 EDA
-Here are the tables in Markdown syntax:
+I apologize for that. Here are the tables formatted correctly for Markdown, so they will display properly in your GitHub README file:
 
 ### 1. Central Tendency
 
@@ -97,4 +97,4 @@ Here are the tables in Markdown syntax:
 | Sum       | 1,131,591,720.00 | 37,873.00 | 17,536.00   | 1,799,876,538.00 |
 ```
 
-You can copy these tables directly into your Markdown file, and they will be properly formatted as tables. If you need any further assistance or additional analysis, feel free to ask!
+You can copy these tables directly into your Markdown file, and they should display correctly as tables in your GitHub README. If you need any further assistance or additional analysis, feel free to ask!

@@ -46,7 +46,7 @@ Sub SupprimerEspaces()
             End If\
         Next cell\
     Next ws\
-End Sub\
+End Sub
 
 Standardise names
 Format all the number to numbers

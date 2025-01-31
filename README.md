@@ -1,7 +1,6 @@
 # Dashboard--Sales-performances-
 # Source 
-[Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
-# Metadata
+Kaggle dataset : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
 
 <details>
 <summary>Metadata</summary>

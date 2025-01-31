@@ -25,7 +25,10 @@
 - **Profit**: Profit/Loss incurred.
 
 # 1 Cleaning data
-- Remove duplicates: No duplicate
+## Finding null values
+No null values found
+## Remove duplicates and missing data
+- No duplicate found
 - No missing data
 Check to see if there are duplicates 
 ## Format standardisation

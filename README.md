@@ -133,5 +133,11 @@ SUM: The total sum of all values in the dataset. For example, the total sales am
 - Distribution geographically
 - Most common mode of shipping
 - Most common mode of shipping geographicaly (region, state, city)
--  
+- Make an analysis on ordering and shipping over time geographically
+- Most common shipping mode for categories, subcategories and products
+- Relationships between sales/profit and shipping mode
+- Relationship between sales/profit  and ordering and shipping dates
+- 
+
+
 

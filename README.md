@@ -3,7 +3,7 @@
 [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
 # Metadata
 
-<Metadata>
+<Metadata open>
 
 - **Row ID**: Unique ID for each row.
 - **Order ID**: Unique Order ID for each Customer.

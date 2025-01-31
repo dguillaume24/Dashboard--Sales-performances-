@@ -28,6 +28,13 @@
 - **Profit**: Profit/Loss incurred.
 
 </Metadata>
+
+<details>
+<summary>Cool Dropdown</summary>
+blah blah blah blah you found me!
+</details>
+
+
 # 1 Cleaning data
 ## Finding null values
 - No null values found

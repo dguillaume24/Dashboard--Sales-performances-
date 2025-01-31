@@ -61,18 +61,20 @@ The profit column includes positive and négative profits. This column is split 
 # 3 EDA
 ## Statistics
 ### 1. Central Tendency
-Central Tendency
+
 | Measure | SALES       | Quantity    | Discount    | Profit      |
 |---------|-------------|-------------|-------------|-------------|
 | Mean    | 229.8580008 | 3.789573744 | 0.156202722 | 28.65689631 |
 | Median  | 54.49       | 3           | 0.2         | 8.6665      |
 | Mode    | 12.96       | 3           | 0           | 0           |
+
 Interpretation:
 
 Mean: The average values for sales, quantity, discount, and profit. For example, the average sales amount is approximately 229.86.
 Median: The middle value when the data is ordered. For instance, the median sales amount is 54.49, indicating that half of the sales are below this value and half are above.
 Mode: The most frequently occurring value in the dataset. For example, the most common sales amount is 12.96.
 Dispersion
+
 | Measure                  | SALES       | Quantity    | Discount    | Profit      |
 |--------------------------|-------------|-------------|-------------|-------------|
 | MIN                      | 0.444       | 1           | 0           | -6599.978   |
@@ -81,6 +83,7 @@ Dispersion
 | Variance (total dataset) | 388395.5885 | 4.950617729 | 0.04261815  | 54872.30698 |
 | Variance (sample)        | 388434.4553 | 4.951113138 | 0.042622415 | 54877.79806 |
 | Standard deviation       | 623.2451005 | 2.225109691 | 0.206451968 | 234.2601077 |
+
 Interpretation:
 
 MIN and MAX: The smallest and largest values in the dataset. For example, the smallest sales amount is 0.444, and the largest is 22638.48.
@@ -88,20 +91,38 @@ Range: The difference between the maximum and minimum values. For instance, the 
 Variance: A measure of how much the values in the dataset vary. Higher variance indicates more spread out data. For example, the variance in sales is 388395.5885.
 Standard deviation: The square root of the variance, showing the average distance of each data point from the mean. For example, the standard deviation of sales is 623.2451005.
 Measures of Shape
+
 | Measure  | SALES       | Quantity    | Discount    | Profit      |
 |----------|-------------|-------------|-------------|-------------|
 | Skewness | 12.97275234 | 1.278544753 | 1.684294747 | 7.561431562 |
 | Kurtosis | 305.3117532 | 1.991889366 | 2.409546123 | 397.1885146 |
+
 Interpretation:
 
 Skewness: Indicates the asymmetry of the data distribution. Positive skewness means the data is skewed to the right. For example, sales have a high positive skewness of 12.97275234, indicating a long right tail.
 Kurtosis: Measures the "tailedness" of the data distribution. Higher kurtosis indicates more outliers. For example, sales have a very high kurtosis of 305.3117532, suggesting many extreme values.
 Other
+
 | Measure | SALES       | Quantity | Discount | Profit      |
 |---------|-------------|----------|----------|-------------|
 | Count   | 9994        | 9994     | 9994     | 9994        |
 | SUM     | 2297200.86  | 37873    | 1561.09  | 286397.0217 |
+
 Interpretation:
 
 Count: The number of observations in the dataset. For example, there are 9994 records for sales, quantity, discount, and profit.
 SUM: The total sum of all values in the dataset. For example, the total sales amount is 2297200.86.
+
+
+## Exploration
+1. Sales and profits
+- How do have they evolved over time
+- What is the distribution geographically
+- What are the best selling categories, subcategories, products
+- Display for each region, state, city the best selling categories, subcategories, products
+- Display the worst selling categories, subcategories, products
+- Display for each region, state, city the worst selling categories, subcategories, products
+- Display the sales per client, make a top ten
+- Show distribution of best customers geographically
+2. 
+

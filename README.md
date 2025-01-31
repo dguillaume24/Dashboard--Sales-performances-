@@ -3,8 +3,8 @@
 [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
 # Metadata
 
-<Metadata open>
-
+<details>
+<summary>Metadata</summary>
 - **Row ID**: Unique ID for each row.
 - **Order ID**: Unique Order ID for each Customer.
 - **Order Date**: Order Date of the product.
@@ -27,7 +27,7 @@
 - **Discount**: Discount provided.
 - **Profit**: Profit/Loss incurred.
 
-</Metadata>
+</details>
 
 <details>
 <summary>Cool Dropdown</summary>

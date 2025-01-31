@@ -132,6 +132,7 @@ SUM: The total sum of all values in the dataset. For example, the total sales am
 
 2. Ordering and Shipping
 - Look at seasonality of shipping and ordering
+- difference in shipping and ordering dates
 - Distribution geographically
 - Most common mode of shipping
 - Most common mode of shipping geographicaly (region, state, city)
@@ -139,7 +140,13 @@ SUM: The total sum of all values in the dataset. For example, the total sales am
 - Most common shipping mode for categories, subcategories and products
 - Relationships between sales/profit and shipping mode
 - Relationship between sales/profit  and ordering and shipping dates
-- 
-
+3. Geographical analysis
+- Sales
+- Profit
+- Shiping
+- Order dates
+- Shipping dates
+- Customers
+- Categorie, subcategories, products
 
 

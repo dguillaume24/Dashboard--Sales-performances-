@@ -26,7 +26,7 @@
 
 # 1 Cleaning data
 ## Finding null values
-No null values found
+- No null values found
 ## Remove duplicates and missing data
 - No duplicate found
 - No missing data
@@ -56,57 +56,52 @@ Format all the number to numbers
 Additional spaces
 Changing column names
 Remove duplicates
-# 2 EDA
+# 2 Transformation
+The profit column includes positive and négative profits. This column is split into two different columns: Profit and loss
+# 3 EDA
+## Statistics
 ### 1. Central Tendency
+Central Tendency
+| Measure | SALES       | Quantity    | Discount    | Profit      |
+|---------|-------------|-------------|-------------|-------------|
+| Mean    | 229.8580008 | 3.789573744 | 0.156202722 | 28.65689631 |
+| Median  | 54.49       | 3           | 0.2         | 8.6665      |
+| Mode    | 12.96       | 3           | 0           | 0           |
+Interpretation:
 
+Mean: The average values for sales, quantity, discount, and profit. For example, the average sales amount is approximately 229.86.
+Median: The middle value when the data is ordered. For instance, the median sales amount is 54.49, indicating that half of the sales are below this value and half are above.
+Mode: The most frequently occurring value in the dataset. For example, the most common sales amount is 12.96.
+Dispersion
+| Measure                  | SALES       | Quantity    | Discount    | Profit      |
+|--------------------------|-------------|-------------|-------------|-------------|
+| MIN                      | 0.444       | 1           | 0           | -6599.978   |
+| MAX                      | 22638.48    | 14          | 0.8         | 8399.976    |
+| Range                    | 22638.036   | 13          | 0.8         | 14999.954   |
+| Variance (total dataset) | 388395.5885 | 4.950617729 | 0.04261815  | 54872.30698 |
+| Variance (sample)        | 388434.4553 | 4.951113138 | 0.042622415 | 54877.79806 |
+| Standard deviation       | 623.2451005 | 2.225109691 | 0.206451968 | 234.2601077 |
+Interpretation:
 
-| Statistic | Sales       | Quantity     | Discount     | Profit       |
-|-----------|-------------|--------------|--------------|--------------|
-| Mean      | 113,227.11  | 3.79         | 1.75         | 180,095.71   |
-| Median    | 11,088      | 3            | 2            | 36,309       |
-| Mode      | 1,296       | 3            | 0            | 0            |
+MIN and MAX: The smallest and largest values in the dataset. For example, the smallest sales amount is 0.444, and the largest is 22638.48.
+Range: The difference between the maximum and minimum values. For instance, the range of sales is 22638.036.
+Variance: A measure of how much the values in the dataset vary. Higher variance indicates more spread out data. For example, the variance in sales is 388395.5885.
+Standard deviation: The square root of the variance, showing the average distance of each data point from the mean. For example, the standard deviation of sales is 623.2451005.
+Measures of Shape
+| Measure  | SALES       | Quantity    | Discount    | Profit      |
+|----------|-------------|-------------|-------------|-------------|
+| Skewness | 12.97275234 | 1.278544753 | 1.684294747 | 7.561431562 |
+| Kurtosis | 305.3117532 | 1.991889366 | 2.409546123 | 397.1885146 |
+Interpretation:
 
-**Mean (Average):**
-On average, each sale generates $113,227.11 in revenue, involves 3.79 items, has a discount of 1.75%, and results in a profit of $180,095.71.\
-**Median**
-The median values indicate that half of the sales are below $11,088, involve 3 items, have a discount of 2%, and result in a profit below $36,309.\
-**Mode:**
-The most frequent sales amount is $1,296, with 3 items, no discount, and no profit.
-### 2. Dispersion
+Skewness: Indicates the asymmetry of the data distribution. Positive skewness means the data is skewed to the right. For example, sales have a high positive skewness of 12.97275234, indicating a long right tail.
+Kurtosis: Measures the "tailedness" of the data distribution. Higher kurtosis indicates more outliers. For example, sales have a very high kurtosis of 305.3117532, suggesting many extreme values.
+Other
+| Measure | SALES       | Quantity | Discount | Profit      |
+|---------|-------------|----------|----------|-------------|
+| Count   | 9994        | 9994     | 9994     | 9994        |
+| SUM     | 2297200.86  | 37873    | 1561.09  | 286397.0217 |
+Interpretation:
 
-| Statistic                  | Sales       | Quantity     | Discount     | Profit       |
-|----------------------------|-------------|--------------|--------------|--------------|
-| Min                        | 3           | 1            | 0            | -383,999.04  |
-| Max                        | 23,962,656  | 14           | 45           | 671,998.08   |
-| Range                      | 23,962,653  | 13           | 45           | 1,055,997.12 |
-| Variance (total dataset)   | 2.68941E+11 | 4.95         | 9.73         | 2.96833E+12  |
-| Variance (sample)          | 2.68968E+11 | 4.95         | 9.73         | 2.96863E+12  |
-| Standard Deviation         | 518,621.16  | 2.23         | 3.12         | 1,722,970.73 |
-
-**Minimum and Maximum:**
-
-Interpretation: The range of sales is from $3 to $23,962,656, quantities range from 1 to 14 items, discounts range from 0% to 45%, and profits range from -$383,999.04 to $671,998.08.\
-**Range:**
-Interpretation: The range shows the spread between the minimum and maximum values for each metric.\
-**Variance:**
-Interpretation: Variance measures the spread of the data points from the mean. Higher variance indicates more spread.\
-**Standard Deviation:**
-Interpretation: Standard deviation provides a measure of the average distance of each data point from the mean. Higher values indicate more variability.
-
-### 3. Measures of Shape
-
-| Statistic | Sales       | Quantity     | Discount     | Profit       |
-|-----------|-------------|--------------|--------------|--------------|
-| Skewness  | 19.35       | 1.28         | 6.20         | 10.15        |
-| Kurtosis  | 615.27      | 1.99         | 64.23        | 473.39       |
-
-**Skewness:**
-Interpretation: Positive skewness indicates that the data is skewed to the right, with a long tail on the right side.\
-**Kurtosis:**
-Interpretation: High kurtosis indicates that the data has heavy tails or outliers.
-### 4. Other
-
-| Statistic | Sales       | Quantity     | Discount     | Profit       |
-|-----------|-------------|--------------|--------------|--------------|
-| Count     | 9,994       | 9,994        | 9,994        | 9,994        |
-| Sum       | 1,131,591,720.00 | 37,873.00 | 17,536.00   | 1,799,876,538.00 |
+Count: The number of observations in the dataset. For example, there are 9994 records for sales, quantity, discount, and profit.
+SUM: The total sum of all values in the dataset. For example, the total sales amount is 2297200.86.

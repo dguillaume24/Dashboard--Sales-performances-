@@ -2,6 +2,8 @@
 # Source 
 [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
 # Metadata
+<Metadata>
+
 - **Row ID**: Unique ID for each row.
 - **Order ID**: Unique Order ID for each Customer.
 - **Order Date**: Order Date of the product.
@@ -24,6 +26,7 @@
 - **Discount**: Discount provided.
 - **Profit**: Profit/Loss incurred.
 
+</Metadata>
 # 1 Cleaning data
 ## Finding null values
 - No null values found
@@ -124,5 +127,11 @@ SUM: The total sum of all values in the dataset. For example, the total sales am
 - Display for each region, state, city the worst selling categories, subcategories, products
 - Display the sales per client, make a top ten
 - Show distribution of best customers geographically
-2. 
+
+2. Ordering and Shipping
+- Look at seasonality of shipping and ordering
+- Distribution geographically
+- Most common mode of shipping
+- Most common mode of shipping geographicaly (region, state, city)
+-  
 

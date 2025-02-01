@@ -4,35 +4,20 @@
 
 ### Finding null values
 - No null values found
+
 ### Remove duplicates and missing data
 - No duplicate found
 - No missing data
-Check to see if there are duplicates 
-### Format standardisation
-```vba
-Sub SupprimerEspaces()
-    Dim ws As Worksheet\
-    Dim cell As Range\
-    Dim cellValue As String\
-    
-    ' Boucle à travers chaque feuille de calcul\
-    For Each ws In ThisWorkbook.Worksheets\
-        ' Boucle à travers chaque cellule utilisée dans la feuille de calcul\
-        For Each cell In ws.UsedRange\
-            If cell.HasFormula = False Then\
-                cellValue = cell.Value\
-                ' Supprime les espaces en début et fin de texte, et réduit les espaces multiples à un seul\
-                cell.Value = WorksheetFunction.Trim(cellValue)\
-            End If\
-        Next cell\
-    Next ws\
-End Sub
+Check to see if there are duplicates
 
-Standardise names
-Format all the number to numbers
-Additional spaces
-Changing column names
-Remove duplicates
+### Format standardisation
+
+- Standardise names
+- Remove all extra spaces
+- Format: numbers, dates,...
+- Additional spaces
+- Changing column names
+- Remove duplicates
 # 2 Transformation
 The profit column includes positive and négative profits. This column is split into two different columns: Profit and loss
 # 3 EDA

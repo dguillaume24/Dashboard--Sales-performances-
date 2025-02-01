@@ -1,13 +1,14 @@
 # Dashboard--Sales-performances-
 
 # 1 Cleaning data
-## Finding null values
+
+### Finding null values
 - No null values found
-## Remove duplicates and missing data
+### Remove duplicates and missing data
 - No duplicate found
 - No missing data
 Check to see if there are duplicates 
-## Format standardisation
+### Format standardisation
 ```vba
 Sub SupprimerEspaces()
     Dim ws As Worksheet\

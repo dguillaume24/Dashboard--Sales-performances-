@@ -35,7 +35,8 @@ Interpretation:
 Mean: The average values for sales, quantity, discount, and profit. For example, the average sales amount is approximately 229.86.
 Median: The middle value when the data is ordered. For instance, the median sales amount is 54.49, indicating that half of the sales are below this value and half are above.
 Mode: The most frequently occurring value in the dataset. For example, the most common sales amount is 12.96.
-Dispersion
+
+### 2. Dispersion
 
 | Measure                  | SALES       | Quantity    | Discount    | Profit      |
 |--------------------------|-------------|-------------|-------------|-------------|
@@ -52,7 +53,8 @@ MIN and MAX: The smallest and largest values in the dataset. For example, the sm
 Range: The difference between the maximum and minimum values. For instance, the range of sales is 22638.036.
 Variance: A measure of how much the values in the dataset vary. Higher variance indicates more spread out data. For example, the variance in sales is 388395.5885.
 Standard deviation: The square root of the variance, showing the average distance of each data point from the mean. For example, the standard deviation of sales is 623.2451005.
-Measures of Shape
+
+### 3. Measures of Shape
 
 | Measure  | SALES       | Quantity    | Discount    | Profit      |
 |----------|-------------|-------------|-------------|-------------|
@@ -75,6 +77,9 @@ Interpretation:
 Count: The number of observations in the dataset. For example, there are 9994 records for sales, quantity, discount, and profit.
 SUM: The total sum of all values in the dataset. For example, the total sales amount is 2297200.86.
 
+### 4. Outliers
+Identify any outliers in sales and profits.
+Any value outside Q1 - 1.5*IQR or Q3 + 1.5*IQR is an outlier.
 
 ## Exploration
 1. Sales and profits

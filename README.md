@@ -20,6 +20,7 @@ Check to see if there are duplicates
 - Remove duplicates
 # 2 Transformation
 The profit column includes positive and négative profits. This column is split into two different columns: Profit and loss
+
 # 3 EDA
 ## Statistics
 ### 1. Central Tendency
@@ -80,6 +81,20 @@ SUM: The total sum of all values in the dataset. For example, the total sales am
 ### 4. Outliers
 Identify any outliers in sales and profits.
 Any value outside Q1 - 1.5*IQR or Q3 + 1.5*IQR is an outlier.
+The Interquartile Range (IQR) is a common method for finding outliers. Outliers are values that fall below Q1 - 1.5*IQR or above Q3 + 1.5*IQR.
+
+Steps to Identify Outliers in Excel:
+Calculate Q1 (25th percentile) and Q3 (75th percentile):
+Use =QUARTILE(range,1) for Q1
+Use =QUARTILE(range,3) for Q3
+Calculate IQR:
+=Q3 - Q1
+Calculate Lower and Upper Boundaries:
+Lower Bound = Q1 - 1.5 * IQR
+Upper Bound = Q3 + 1.5 * IQR
+
+
+
 
 ## Exploration
 1. Sales and profits

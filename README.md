@@ -93,10 +93,18 @@ Calculate Lower and Upper Boundaries:
 Lower Bound = Q1 - 1.5 * IQR
 Upper Bound = Q3 + 1.5 * IQR
 
-
-
-
 ## Exploration
+# 1. Sales and Profit Overview
+Sales and Profit Trends Over Time → Identify seasonal patterns and growth trends.
+Sales and Profit by Category, Subcategory, and Product → Find top-selling and least-selling items.
+Sales and Profit by Region, State, and City → Discover regional differences.
+Profit Margins Across Categories and Subcategories → Identify high-margin vs. low-margin products.
+
+
+
+
+
+
 1. Sales and profits
 - How do have they evolved over time
 - What is the distribution geographically

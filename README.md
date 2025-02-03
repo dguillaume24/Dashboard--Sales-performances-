@@ -3,7 +3,8 @@
 # 1 Cleaning data
 
 ### Finding null values
-- No null values found
+- No null values found : Using filtering options
+- Finding missing data: using the  =COUNTBLANK() function, we get 0 blank cell.
 
 ### Remove duplicates and missing data
 - No duplicate found
@@ -19,7 +20,8 @@ Check to see if there are duplicates
 - Changing column names
 - Remove duplicates
 # 2 Transformation
-The profit column includes positive and négative profits. This column is split into two different columns: Profit and loss
+- Date format: dates are in the US format mm/dd/yyyy, they are changed in the format dd/mm/yyyy
+- The profit column includes positive and negative profits. This column is split into two different columns: Profit and loss
 
 # 3 EDA
 ## Statistics
@@ -93,7 +95,30 @@ Calculate Lower and Upper Boundaries:
 Lower Bound = Q1 - 1.5 * IQR
 Upper Bound = Q3 + 1.5 * IQR
 
+|            | SALES   | Quantity | Discount | Profit |
+|------------|---------|---------|---------|---------|
+| Q1         | 17,28   | 2       | 0       | 1,72875  |
+| Q2         | 54,49   | 3       | 0,2     | 8,6665   |
+| Q3         | 209,94  | 5       | 0,2     | 29,364   |
+| Q3-Q1      | 192,66  | 3       | 0,2     | 27,63525 |
+| lower_bound| -271,71 | -2,5    | -0,3    | -39,724125 |
+| upper_bound| 498,93  | 9,5     | 0,5     | 70,816875 |
+
 ## Exploration
+
+### 1. Sales and Profit Overview
+Sales and Profit Trends Over Time → Identify seasonal patterns and growth trends.
+Sales and Profit by Category, Subcategory, and Product → Find top-selling and least-selling items.
+Sales and Profit by Region, State, and City → Discover regional differences.
+Profit Margins Across Categories and Subcategories → Identify high-margin vs. low-margin products.
+
+
+
+
+
+
+
+
 # 1. Sales and Profit Overview
 Sales and Profit Trends Over Time → Identify seasonal patterns and growth trends.
 Sales and Profit by Category, Subcategory, and Product → Find top-selling and least-selling items.

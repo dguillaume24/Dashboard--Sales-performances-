@@ -104,9 +104,8 @@ Upper Bound = Q3 + 1.5 * IQR
 | lower_bound| -271,71 | -2,5    | -0,3    | -39,724125 |
 | upper_bound| 498,93  | 9,5     | 0,5     | 70,816875 |
 
-## Exploration
 
-### 1. Sales and Profit Overview
+## 1. Sales and Profit Overview
 Sales and Profit Trends Over Time → Identify seasonal patterns and growth trends.
 ### Sales seasonality
 **Total sales by year**
@@ -125,6 +124,23 @@ The sales having been growing over time at a steady rate, until 2016 where the r
 
 **Total Sales 2017**
 ![My Image](images/sales_time/Total_sales_2017.png)
+
+### Profit seasonality
+**Total profit by year**
+
+![My Image](images/profit_time/Total Profit by year-month.png)
+
+**Total profit 2014**
+![My Image](images/profit_time/Total profit by year-month-2014.png)
+
+**Total profit 2015**
+![My Image](images/profit_time/Total profit by year-month-2015.png)
+
+**Total profit 2016**
+![My Image](images/profit_time/Total profit by year-month-2016.png)
+
+**Total profit 2017**
+![My Image](images/profit_time/Total profit by year-month-2017.png)
 
 Sales and Profit by Category, Subcategory, and Product → Find top-selling and least-selling items.
 Sales and Profit by Region, State, and City → Discover regional differences.

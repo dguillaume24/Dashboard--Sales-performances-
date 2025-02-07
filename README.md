@@ -128,19 +128,19 @@ The sales having been growing over time at a steady rate, until 2016 where the r
 ### Profit seasonality
 **Total profit by year**
 
-![My Image](images/profit_time/Total Profit by year-month.png)
+![Total Profit by year-month](images/profit_time/Total%20Profit%20by%20year-month.png)
 
 **Total profit 2014**
-![My Image](images/profit_time/Total profit by year-month-2014.png)
+![Total profit by year-month-2014](images/profit_time/Total%20profit%20by%20year-month-2014.png)
 
 **Total profit 2015**
-![My Image](images/profit_time/Total profit by year-month-2015.png)
+![Total profit by year-month-2014](images/profit_time/Total%20profit%20by%20year-month-2015.png)
 
 **Total profit 2016**
-![My Image](images/profit_time/Total profit by year-month-2016.png)
+![Total profit by year-month-2014](images/profit_time/Total%20profit%20by%20year-month-2016.png)
 
 **Total profit 2017**
-![My Image](images/profit_time/Total profit by year-month-2017.png)
+![Total profit by year-month-2014](images/profit_time/Total%20profit%20by%20year-month-2017.png)
 
 Sales and Profit by Category, Subcategory, and Product → Find top-selling and least-selling items.
 Sales and Profit by Region, State, and City → Discover regional differences.

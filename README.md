@@ -112,32 +112,29 @@ Sales and Profit Trends Over Time → Identify seasonal patterns and growth tren
 **Total sales by year**
 
 ![My Image](images/sales_time/Total_sales_by_year.png)
-              
-              
 The sales having been growing over time at a steady rate, until 2016 where the rise is little steeper.
 
+**Total Sales 2014**
+![My Image](images/sales_time/Total_sales_2014.png)
+
+**Total Sales 2015**
+![My Image](images/sales_time/Total_sales_2015.png)
+
+**Total Sales 2016**
+![My Image](images/sales_time/Total_sales_2016.png)
+
+**Total Sales 2017**
+![My Image](images/sales_time/Total_sales_2017.png)
 
 Sales and Profit by Category, Subcategory, and Product → Find top-selling and least-selling items.
 Sales and Profit by Region, State, and City → Discover regional differences.
 Profit Margins Across Categories and Subcategories → Identify high-margin vs. low-margin products.
-
-
-
-
-
-
-
 
 # 1. Sales and Profit Overview
 Sales and Profit Trends Over Time → Identify seasonal patterns and growth trends.
 Sales and Profit by Category, Subcategory, and Product → Find top-selling and least-selling items.
 Sales and Profit by Region, State, and City → Discover regional differences.
 Profit Margins Across Categories and Subcategories → Identify high-margin vs. low-margin products.
-
-
-
-
-
 
 1. Sales and profits
 - How do have they evolved over time

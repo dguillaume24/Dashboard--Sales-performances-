@@ -109,8 +109,10 @@ Upper Bound = Q3 + 1.5 * IQR
 ### 1. Sales and Profit Overview
 Sales and Profit Trends Over Time → Identify seasonal patterns and growth trends.
 ### Sales seasonality
+**Total sales by year**
+
 ![My Image](images/sales_time/Total_sales_by_year.png)
-              **Total sales by year**
+              
               
 The sales having been growing over time at a steady rate, until 2016 where the rise is little steeper.
 

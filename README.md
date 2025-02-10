@@ -165,11 +165,15 @@ Profit Margins Across Categories and Subcategories → Identify high-margin vs. 
 ![Top 10 Profit by Subcategory](images/profit_time/top10_profit_by_subcategory.png)
 
 **Profit Bottom 10 subcategories**
-
+![Bottom 10 Profit by Subcategory](images/profit_time/bottom10_profit_by_subcategory.png)
 **Profit Top 10 products**
 ![Top 10 Profit by Product](images/profit_time/top10_profit_by_product.png)
 **Profit bottom 10 products**
 ![Bottom 10 Profit by Product](images/profit_time/bottom10_profit_by_product.png)
+
+
+## Sales and geography
+**Sales by region**
 
 # 1. Sales and Profit Overview
 Sales and Profit Trends Over Time → Identify seasonal patterns and growth trends.

@@ -183,6 +183,29 @@ Profit Margins Across Categories and Subcategories → Identify high-margin vs. 
 
 
 ## Sales and geography
+
+| Sales | Profit |
+|:-:|:-:|
+|![Sales by Region](images/sales/geography/sales_by_region.png) |  ![Profit by Region](images/profit/geography/profit_by_region.png)|
+
+| Sales | Profit |
+|:-:|:-:|
+|![Sales by State Top 10](images/sales/geography/sales_by_state_top_10.png) |![Profit by State Top 10](images/profit/geography/profit_by_state_top10.png)|
+
+| Sales | Profit |
+|:-:|:-:|
+|![Sales by State Bottom 10](images/sales/geography/sales_by_state_bottom_10.png) | ![Profit by State Bottom 10](images/profit/geography/profit_by_state_bottom10.png)|
+
+| Sales | Profit |
+|:-:|:-:|
+|![Sales by City Top 10](images/sales/geography/sales_by_city_top_10.png) |![Profit by City Top 10](images/profit/geography/profit_by_city_top10.png)|
+
+| Sales | Profit |
+|:-:|:-:|
+|![Sales by City Bottom 10](images/sales/geography/sales_by_state_bottom_10.png) |![Profit by City Bottom 10](images/profit/geography/profit_by_city_bottom10.png)|
+
+
+
 **Sales by region**
 ![Sales by Region](images/sales/geography/sales_by_region.png)
 **Sales by state Top 10**

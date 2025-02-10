@@ -131,48 +131,38 @@ Sales and Profit Trends Over Time → Identify seasonal patterns and growth tren
 
 ### Sales categories
 **Category**
+
 |Sales|Profits|
 |:-:|:-:|
 |![Top Sales Categories](images/sales/category/top_sales_categories.png)|![Profit by Category](images/profit/category/profit_by_category.png)|
 
 **Subcategory Top 10**
+
 |Sales|Profits|
 |:-:|:-:|
 |![Top 10 Sales Subcategories](images/sales/category/top10_sales_subcategories.png)|!![Top 10 Profit by Subcategory](images/profit/category/top10_profit_by_subcategory.png)|
 
 
-![Top 10 Sales Subcategories](images/sales_time/top10_sales_subcategories.png)
 **Bottom 10 sales subcategories**
+
 |Sales|Profits|
 |:-:|:-:|
 |![Bottom 10 Sales Subcategories](images/sales/category/bottom10_sales_subcategories.png)|![Bottom 10 Profit by Subcategory](images/profit/category/borttom10_profit_by_subcategory.png)|
 
 **Product sales Top 10**
+
 |Sales|Profits|
 |:-:|:-:|
 |![Top 10 Sales Products](images/sales/category/top10_sales_products.png)|![Top 10 Profit by Product](images/profit/category/top10_profit_by_product.png)|
 
 **Bottom 10 sales products**
+
 |Sales|Profits|
 |:-:|:-:|
 |![Bottom 10 Sales Products](images/sales/category/bottom10_sales_products.png)|![Bottom 10 Profit by Product](images/profit/category/bottom10_profit_by_product.png)|
 
 Sales and Profit by Region, State, and City → Discover regional differences.
 Profit Margins Across Categories and Subcategories → Identify high-margin vs. low-margin products.
-
-### Sales profits
-**Profit categories**
-![Profit by Category](images/profit_time/profit_by_category.png)
-**Profit Top 10 by subcategories**
-![Top 10 Profit by Subcategory](images/profit_time/top10_profit_by_subcategory.png)
-
-**Profit Bottom 10 subcategories**
-![Bottom 10 Profit by Subcategory](images/profit_time/bottom10_profit_by_subcategory.png)
-**Profit Top 10 products**
-![Top 10 Profit by Product](images/profit_time/top10_profit_by_product.png)
-**Profit bottom 10 products**
-![Bottom 10 Profit by Product](images/profit_time/bottom10_profit_by_product.png)
-
 
 ## Sales and geography
 

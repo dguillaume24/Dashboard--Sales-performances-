@@ -111,55 +111,55 @@ Sales and Profit Trends Over Time → Identify seasonal patterns and growth tren
 
 |Total Sales|Total profit by year|
 |:-:|:-:|
-|<img src="images/sales/time/Total_sales_by_year.png" alt="Total Sales by Year" width="600" height="400">|<img src="images/profit/time/profit_by_year.png" alt="Profit by Year" width="600" height="400">|
+|<img src="images/sales/time/Total_sales_by_year.png" alt="Total Sales by Year" width="300" height="200">|<img src="images/profit/time/profit_by_year.png" alt="Profit by Year" width="300" height="200">|
 
 |Total Sales 2014|Total profits 2014|
 |:-:|:-:|
-|<img src="images/sales/time/Total_sales_2014.png" alt="Total Sales 2014" width="600" height="400">|<img src="images/profit/time/Total%20profit%20by%20year-month-2014.png" alt="Total profit by year-month 2014" width="600" height="400">|
+|<img src="images/sales/time/Total_sales_2014.png" alt="Total Sales 2014" width="300" height="200">|<img src="images/profit/time/Total%20profit%20by%20year-month-2014.png" alt="Total profit by year-month 2014" width="300" height="200">|
 
 |Total Sales 2015|Total profits 2015|
 |:-:|:-:|
-|<img src="images/sales/time/Total_sales_2015.png" alt="Total Sales 2015" width="600" height="400">|<img src="images/profit/time/Total%20profit%20by%20year-month-2015.png" alt="Total profit by year-month 2015" width="600" height="400">|
+|<img src="images/sales/time/Total_sales_2015.png" alt="Total Sales 2015" width="300" height="200">|<img src="images/profit/time/Total%20profit%20by%20year-month-2015.png" alt="Total profit by year-month 2015" width="300" height="200">|
 
 |Total Sales 2016|Total profits 2016|
 |:-:|:-:|
-|<img src="images/sales/time/Total_sales_2016.png" alt="Total Sales 2016" width="600" height="400">|<img src="images/profit/time/Total%20profit%20by%20year-month-2016.png" alt="Total profit by year-month 2016" width="600" height="400">|
+|<img src="images/sales/time/Total_sales_2016.png" alt="Total Sales 2016" width="300" height="200">|<img src="images/profit/time/Total%20profit%20by%20year-month-2016.png" alt="Total profit by year-month 2016" width="300" height="200">|
 
 |Total Sales 2017|Total profits 2017|
 |:-:|:-:|
-|<img src="images/sales/time/Total_sales_2017.png" alt="Total Sales 2017" width="600" height="400">|<img src="images/profit/time/Total%20profit%20by%20year-month-2017.png" alt="Total profit by year-month 2017" width="600" height="400">|
+|<img src="images/sales/time/Total_sales_2017.png" alt="Total Sales 2017" width="300" height="200">|<img src="images/profit/time/Total%20profit%20by%20year-month-2017.png" alt="Total profit by year-month 2017" width="300" height="200">|
 
 ### Sales categories
 **Category**
 
 |Sales|Profits|
 |:-:|:-:|
-|<img src="images/sales/category/top_sales_categories.png" alt="Top Sales Categories" width="600" height="400">|<img src="images/profit/category/profit_by_category.png" alt="Profit by Category" width="600" height="400">|
+|<img src="images/sales/category/top_sales_categories.png" alt="Top Sales Categories" width="300" height="200">|<img src="images/profit/category/profit_by_category.png" alt="Profit by Category" width="300" height="200">|
 
 **Subcategory Top 10**
 
 |Sales|Profits|
 |:-:|:-:|
-|<img src="images/sales/category/top10_sales_subcategories.png" alt="Top 10 Sales Subcategories" width="600" height="400">|<img src="images/profit/category/top10_profit_by_subcategory.png" alt="Top 10 Profit by Subcategory" width="600" height="400">|
+|<img src="images/sales/category/top10_sales_subcategories.png" alt="Top 10 Sales Subcategories" width="300" height="200">|<img src="images/profit/category/top10_profit_by_subcategory.png" alt="Top 10 Profit by Subcategory" width="300" height="200">|
 
 
 **Bottom 10 sales subcategories**
 
 |Sales|Profits|
 |:-:|:-:|
-|<img src="images/sales/category/bottom10_sales_subcategories.png" alt="Bottom 10 Sales Subcategories" width="600" height="400">|<img src="images/profit/category/borttom10_profit_by_subcategory.png" alt="Bottom 10 Profit by Subcategory" width="600" height="400">|
+|<img src="images/sales/category/bottom10_sales_subcategories.png" alt="Bottom 10 Sales Subcategories" width="300" height="200">|<img src="images/profit/category/borttom10_profit_by_subcategory.png" alt="Bottom 10 Profit by Subcategory" width="300" height="200">|
 
 **Product sales Top 10**
 
 |Sales|Profits|
 |:-:|:-:|
-|<img src="images/sales/category/top10_sales_products.png" alt="Top 10 Sales Products" width="600" height="400">|<img src="images/profit/category/top10_profit_by_product.png" alt="Top 10 Profit by Product" width="600" height="400">|
+|<img src="images/sales/category/top10_sales_products.png" alt="Top 10 Sales Products" width="300" height="200">|<img src="images/profit/category/top10_profit_by_product.png" alt="Top 10 Profit by Product" width="300" height="200">|
 
 **Bottom 10 sales products**
 
 |Sales|Profits|
 |:-:|:-:|
-|<img src="images/sales/category/bottom10_sales_products.png" alt="Bottom 10 Sales Products" width="600" height="400">|<img src="images/profit/category/bottom10_profit_by_product.png" alt="Bottom 10 Profit by Product" width="600" height="400">|
+|<img src="images/sales/category/bottom10_sales_products.png" alt="Bottom 10 Sales Products" width="300" height="200">|<img src="images/profit/category/bottom10_profit_by_product.png" alt="Bottom 10 Profit by Product" width="300" height="200">|
 
 Sales and Profit by Region, State, and City → Discover regional differences.
 Profit Margins Across Categories and Subcategories → Identify high-margin vs. low-margin products.
@@ -168,23 +168,23 @@ Profit Margins Across Categories and Subcategories → Identify high-margin vs. 
 
 | Sales | Profit |
 |:-:|:-:|
-|<img src="images/sales/geography/sales_by_region.png" alt="Sales by Region" width="600" height="400">|<img src="images/profit/geography/profit_by_region.png" alt="Profit by Region" width="600" height="400">|
+|<img src="images/sales/geography/sales_by_region.png" alt="Sales by Region" width="300" height="200">|<img src="images/profit/geography/profit_by_region.png" alt="Profit by Region" width="300" height="200">|
 
 | Sales | Profit |
 |:-:|:-:|
-|<img src="images/sales/geography/sales_by_state_top_10.png" alt="Sales by State Top 10" width="600" height="400">|<img src="images/profit/geography/profit_by_state_top10.png" alt="Profit by State Top 10" width="600" height="400">|
+|<img src="images/sales/geography/sales_by_state_top_10.png" alt="Sales by State Top 10" width="300" height="200">|<img src="images/profit/geography/profit_by_state_top10.png" alt="Profit by State Top 10" width="300" height="200">|
 
 | Sales | Profit |
 |:-:|:-:|
-|<img src="images/sales/geography/sales_by_state_bottom_10.png" alt="Sales by State Bottom 10" width="600" height="400">|<img src="images/profit/geography/profit_by_state_bottom10.png" alt="Profit by State Bottom 10" width="600" height="400">|
+|<img src="images/sales/geography/sales_by_state_bottom_10.png" alt="Sales by State Bottom 10" width="300" height="200">|<img src="images/profit/geography/profit_by_state_bottom10.png" alt="Profit by State Bottom 10" width="300" height="200">|
 
 | Sales | Profit |
 |:-:|:-:|
-|<img src="images/sales/geography/sales_by_city_top_10.png" alt="Sales by City Top 10" width="600" height="400">|<img src="images/profit/geography/profit_by_city_top10.png" alt="Profit by City Top 10" width="600" height="400">|
+|<img src="images/sales/geography/sales_by_city_top_10.png" alt="Sales by City Top 10" width="300" height="200">|<img src="images/profit/geography/profit_by_city_top10.png" alt="Profit by City Top 10" width="300" height="200">|
 
 | Sales | Profit |
 |:-:|:-:|
-|<img src="images/sales/geography/sales_by_state_bottom_10.png" alt="Sales by City Bottom 10" width="600" height="400">|<img src="images/profit/geography/profit_by_city_bottom10.png" alt="Profit by City Bottom 10" width="600" height="400">|
+|<img src="images/sales/geography/sales_by_state_bottom_10.png" alt="Sales by City Bottom 10" width="300" height="200">|<img src="images/profit/geography/profit_by_city_bottom10.png" alt="Profit by City Bottom 10" width="300" height="200">|
 
 # 1. Sales and Profit Overview
 Sales and Profit Trends Over Time → Identify seasonal patterns and growth trends.

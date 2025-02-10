@@ -183,7 +183,7 @@ Profit Margins Across Categories and Subcategories → Identify high-margin vs. 
 |![Sales by City Top 10](images/sales/geography/sales_by_city_top_10.png)|![Profit by City Top 10](images/profit/geography/profit_by_city_top10.png)|
 
 
-<img src="images/profit/geography/profit_by_city_bottom10.png" alt="Profit by City Bottom 10" width="500" height="300">
+<img src="images/profit/geography/profit_by_city_bottom10.png" alt="Profit by City Bottom 10" width="800" height="480">
 
 | Sales | Profit |
 |:-:|:-:|
@@ -259,6 +259,3 @@ Kaggle dataset : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/s
 | **Quantity**   | Quantity of the Product.              |
 | **Discount**   | Discount provided.                    |
 | **Profit**     | Profit/Loss incurred.                 |
-
-
-

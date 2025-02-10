@@ -174,7 +174,28 @@ Profit Margins Across Categories and Subcategories → Identify high-margin vs. 
 
 ## Sales and geography
 **Sales by region**
+![Sales by Region](images/sales/geography/sales_by_region.png)
+**Sales by state Top 10**
+![Sales by State Top 10](images/sales/geography/sales_by_state_top_10.png)
+**Sales by state bottom 10**
+![Sales by State Bottom 10](images/sales/geography/sales_by_state_bottom_10.png)
+**Sales by city top 10**
+![Sales by City Top 10](images/sales/geography/sales_by_city_top_10.png)
 
+**Sales by city bottom 10**
+![Sales by State Bottom 10](images/sales/geography/sales_by_state_bottom_10.png)
+## Profits and geography
+
+**Profits by region**
+![Profit by Region](images/profit/geography/profit_by_region.png)
+**Profits by state Top 10**
+![Profit by State Top 10](images/profit/geography/profit_by_state_top10.png)
+**Profis by state bottom 10**
+![Profit by State Bottom 10](images/profit/geography/profit_by_state_bottom10.png)
+**Profits by city top 10**
+![Profit by City Top 10](images/profit/geography/profit_by_city_top10.png)
+**Profits by city bottom 10**
+![Profit by State Bottom 10](images/profit/geography/profit_by_state_bottom10.png)
 # 1. Sales and Profit Overview
 Sales and Profit Trends Over Time → Identify seasonal patterns and growth trends.
 Sales and Profit by Category, Subcategory, and Product → Find top-selling and least-selling items.

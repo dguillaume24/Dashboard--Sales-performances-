@@ -112,6 +112,13 @@ Sales and Profit Trends Over Time → Identify seasonal patterns and growth tren
 
 ![My Image](images/sales_time/Total_sales_by_year.png)
 The sales having been growing over time at a steady rate, until 2016 where the rise is little steeper.
+<div class="grid" markdown>
+
+![My Image](images/sales_time/Total_sales_by_year.png)
+
+![My Image](images/sales_time/Total_sales_2014.png)
+
+</div>
 
 **Total Sales 2014**
 ![My Image](images/sales_time/Total_sales_2014.png)

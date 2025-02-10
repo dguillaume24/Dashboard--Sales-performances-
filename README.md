@@ -111,7 +111,7 @@ Sales and Profit Trends Over Time → Identify seasonal patterns and growth tren
 
 |Total Sales|Total profit by year|
 |:-:|:-:|
-|<img src="images/sales/time/Total_sales_by_year.png" alt="Total Sales by Year" width="500" height="200">|<img src="images/profit/time/profit_by_year.png" alt="Profit by Year" width="500" height="200">|
+|<img src="images/sales/time/Total_sales_by_year.png" alt="Total Sales by Year" width="800" height="200">|<img src="images/profit/time/profit_by_year.png" alt="Profit by Year" width="800" height="200">|
 
 |Total Sales 2014|Total profits 2014|
 |:-:|:-:|

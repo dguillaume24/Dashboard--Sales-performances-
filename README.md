@@ -182,6 +182,9 @@ Profit Margins Across Categories and Subcategories → Identify high-margin vs. 
 |:-:|:-:|
 |![Sales by City Top 10](images/sales/geography/sales_by_city_top_10.png)|![Profit by City Top 10](images/profit/geography/profit_by_city_top10.png)|
 
+
+<img src="images/profit/geography/profit_by_city_bottom10.png" alt="Profit by City Bottom 10" width="500" height="300">
+
 | Sales | Profit |
 |:-:|:-:|
 |![Sales by City Bottom 10](images/sales/geography/sales_by_state_bottom_10.png)|![Profit by City Bottom 10](images/profit/geography/profit_by_city_bottom10.png)|

@@ -143,8 +143,33 @@ The sales having been growing over time at a steady rate, until 2016 where the r
 ![Total profit by year-month-2014](images/profit_time/Total%20profit%20by%20year-month-2017.png)
 
 Sales and Profit by Category, Subcategory, and Product → Find top-selling and least-selling items.
+### Sales categories
+**Category**
+![Top Sales Categories](images/sales_time/top_sales_categories.png)
+**Subcategory Top 10**
+![Top 10 Sales Subcategories](images/sales_time/top10_sales_subcategories.png)
+**Bottom 10 sales subcategories**
+![Bottom 10 Sales Subcategories](images/sales_time/bottom10_sales_subcategories.png)
+**Product sales Top 10**
+![Bottom 10 Sales Products](images/sales_time/bottom10_sales_products.png)
+
+**Bottom 10 sales products**
+![Bottom 10 Sales Products](images/sales_time/bottom10_sales_products.png)
 Sales and Profit by Region, State, and City → Discover regional differences.
 Profit Margins Across Categories and Subcategories → Identify high-margin vs. low-margin products.
+
+### Sales profits
+**Profit categories**
+![Profit by Category](images/profit_time/profit_by_category.png)
+**Profit Top 10 by subcategories**
+![Top 10 Profit by Subcategory](images/profit_time/top10_profit_by_subcategory.png)
+
+**Profit Bottom 10 subcategories**
+
+**Profit Top 10 products**
+![Top 10 Profit by Product](images/profit_time/top10_profit_by_product.png)
+**Profit bottom 10 products**
+![Bottom 10 Profit by Product](images/profit_time/bottom10_profit_by_product.png)
 
 # 1. Sales and Profit Overview
 Sales and Profit Trends Over Time → Identify seasonal patterns and growth trends.

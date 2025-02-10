@@ -111,23 +111,23 @@ Sales and Profit Trends Over Time → Identify seasonal patterns and growth tren
 
 |Total Sales|Total profit by year|
 |:-:|:-:|
-|![Total Sales by Year](images/sales/time/Total_sales_by_year.png)|![Profit by Year](images/profit_time/profit_by_year.png)|
+|![Total Sales by Year](images/sales/time/Total_sales_by_year.png)|![Profit by Year](images/profit/time/profit_by_year.png)|
 
 |Total Sales 2014|Total profits 2014|
 |:-:|:-:|
-|![My Image](images/sales_time/Total_sales_2014.png)|![Total profit by year-month-2014](images/profit_time/Total%20profit%20by%20year-month-2014.png)|![Total profit by year-month-2014](images/profit_time/Total%20profit%20by%20year-month-2014.png)|
+|![Total Sales 2014](images/sales/time/Total_sales_2014.png)|![Total profit by year-month 2014](images/profit/time/Total%20profit%20by%20year-month-2014.png)|
 
 |Total Sales 2015|Total profits 2015|
 |:-:|:-:|
-|![Total profit by year-month-2015](images/profit_time/Total%20profit%20by%20year-month-2015.png)|![Total profit by year-month-2015](images/profit_time/Total%20profit%20by%20year-month-2015.png)|
+|![Total Sales 2015](images/sales/time/Total_sales_2015.png)|![Total profit by year-month 2015](images/profit/time/Total%20profit%20by%20year-month-2015.png)|
 
 |Total Sales 2016|Total profits 2016|
 |:-:|:-:|
-![Total profit by year-month-2016](images/profit_time/Total%20profit%20by%20year-month-2016.png)|![Total profit by year-month-2016](images/profit_time/Total%20profit%20by%20year-month-2016.png)|
+|![Total Sales 2016](images/sales/time/Total_sales_2016.png)|![Total profit by year-month 2016](images/profit/time/Total%20profit%20by%20year-month-2016.png)|
 
 |Total Sales 2017|Total profits 2017|
 |:-:|:-:|
-|![Total profit by year-month-2017](images/profit_time/Total%20profit%20by%20year-month-2017.png)|![Total profit by year-month-2017](images/profit_time/Total%20profit%20by%20year-month-2017.png)|
+|![Total Sales 2017](images/sales/time/Total_sales_2017.png)|![Total profit by year-month 2017](images/profit/time/Total%20profit%20by%20year-month-2017.png)|
 
 ### Sales categories
 **Category**

@@ -128,7 +128,7 @@ The sales having been growing over time at a steady rate, until 2016 where the r
 ### Profit seasonality
 **Total profit by year**
 
-![Total Profit by year-month](images/profit_time/Total%20Profit%20by%20year-month.png)
+![Profit by Year](images/profit_time/profit_by_year.png)
 
 **Total profit 2014**
 ![Total profit by year-month-2014](images/profit_time/Total%20profit%20by%20year-month-2014.png)

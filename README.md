@@ -135,8 +135,6 @@ Sales and Profit Trends Over Time → Identify seasonal patterns and growth tren
 |:-:|:-:|
 |![Top Sales Categories](images/sales/category/top_sales_categories.png)|![Profit by Category](images/profit/category/profit_by_category.png)|
 
-
-![Top Sales Categories](images/sales_time/top_sales_categories.png)
 **Subcategory Top 10**
 |Sales|Profits|
 |:-:|:-:|
@@ -149,22 +147,16 @@ Sales and Profit Trends Over Time → Identify seasonal patterns and growth tren
 |:-:|:-:|
 |![Bottom 10 Sales Subcategories](images/sales/category/bottom10_sales_subcategories.png)|![Bottom 10 Profit by Subcategory](images/profit/category/borttom10_profit_by_subcategory.png)|
 
-
-
-![Bottom 10 Sales Subcategories](images/sales_time/bottom10_sales_subcategories.png)
 **Product sales Top 10**
 |Sales|Profits|
 |:-:|:-:|
 |![Top 10 Sales Products](images/sales/category/top10_sales_products.png)|![Top 10 Profit by Product](images/profit/category/top10_profit_by_product.png)|
-
-![Bottom 10 Sales Products](images/sales_time/bottom10_sales_products.png)
 
 **Bottom 10 sales products**
 |Sales|Profits|
 |:-:|:-:|
 |![Bottom 10 Sales Products](images/sales/category/bottom10_sales_products.png)|![Bottom 10 Profit by Product](images/profit/category/bottom10_profit_by_product.png)|
 
-![Bottom 10 Sales Products](images/sales_time/bottom10_sales_products.png)
 Sales and Profit by Region, State, and City → Discover regional differences.
 Profit Margins Across Categories and Subcategories → Identify high-margin vs. low-margin products.
 
@@ -186,25 +178,23 @@ Profit Margins Across Categories and Subcategories → Identify high-margin vs. 
 
 | Sales | Profit |
 |:-:|:-:|
-|![Sales by Region](images/sales/geography/sales_by_region.png) |  ![Profit by Region](images/profit/geography/profit_by_region.png)|
+|![Sales by Region](images/sales/geography/sales_by_region.png) |![Profit by Region](images/profit/geography/profit_by_region.png)|
 
 | Sales | Profit |
 |:-:|:-:|
-|![Sales by State Top 10](images/sales/geography/sales_by_state_top_10.png) |![Profit by State Top 10](images/profit/geography/profit_by_state_top10.png)|
+|![Sales by State Top 10](images/sales/geography/sales_by_state_top_10.png)|![Profit by State Top 10](images/profit/geography/profit_by_state_top10.png)|
 
 | Sales | Profit |
 |:-:|:-:|
-|![Sales by State Bottom 10](images/sales/geography/sales_by_state_bottom_10.png) | ![Profit by State Bottom 10](images/profit/geography/profit_by_state_bottom10.png)|
+|![Sales by State Bottom 10](images/sales/geography/sales_by_state_bottom_10.png)|![Profit by State Bottom 10](images/profit/geography/profit_by_state_bottom10.png)|
 
 | Sales | Profit |
 |:-:|:-:|
-|![Sales by City Top 10](images/sales/geography/sales_by_city_top_10.png) |![Profit by City Top 10](images/profit/geography/profit_by_city_top10.png)|
+|![Sales by City Top 10](images/sales/geography/sales_by_city_top_10.png)|![Profit by City Top 10](images/profit/geography/profit_by_city_top10.png)|
 
 | Sales | Profit |
 |:-:|:-:|
-|![Sales by City Bottom 10](images/sales/geography/sales_by_state_bottom_10.png) |![Profit by City Bottom 10](images/profit/geography/profit_by_city_bottom10.png)|
-
-
+|![Sales by City Bottom 10](images/sales/geography/sales_by_state_bottom_10.png)|![Profit by City Bottom 10](images/profit/geography/profit_by_city_bottom10.png)|
 
 **Sales by region**
 ![Sales by Region](images/sales/geography/sales_by_region.png)
